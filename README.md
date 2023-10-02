@@ -4,17 +4,17 @@
 This website serves as a digital showcase of my skills, experience, and accomplishments. I've designed it to provide you with easy access to key information about me.
 
 **SECTIONS:**
-1. Introduction
+1. Introduction:
 Find a brief introduction to who I am and what I do.
-2. About Me
+2. About Me:
 Learn more about my background, interests, and values. Get to know the person behind the work.
-3. Education
+3. Education:
 Discover my educational journey, including academic achievements and degrees earned.
-4. Experience
+4. Experience:
 Explore my professional experience, including work history, projects, and roles I've held.
-5. CV (Curriculum Vitae)
+5. CV (Curriculum Vitae):
 Download a PDF copy of my detailed CV/resume for a comprehensive overview of my qualifications.
-6. Contact Me
+6. Contact Me:
 Get in touch with me through the provided contact information. I'm open to collaboration, networking, or just saying hello!
 
 **NAVIGATION:** \
